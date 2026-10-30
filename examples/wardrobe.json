@@ -1,0 +1,306 @@
+[
+  {
+    "_id": "t1",
+    "filename": "t1.jpg",
+    "name": "Oxford shirt",
+    "normalized_attributes": {
+      "garment_type": "top",
+      "specific_type": "shirt",
+      "color": "white",
+      "season": "spring",
+      "formality": "formal",
+      "occasion": "work",
+      "style": "classic",
+      "material": "cotton",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "t2",
+    "filename": "t2.jpg",
+    "name": "Navy polo",
+    "normalized_attributes": {
+      "garment_type": "top",
+      "specific_type": "polo",
+      "color": "navy_blue",
+      "season": "spring",
+      "formality": "business_casual",
+      "occasion": "work",
+      "style": "classic",
+      "material": "cotton",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "t3",
+    "filename": "t3.jpg",
+    "name": "Wool sweater",
+    "normalized_attributes": {
+      "garment_type": "top",
+      "specific_type": "sweater",
+      "color": "beige",
+      "season": "winter",
+      "formality": "casual",
+      "occasion": "travel",
+      "style": "casual",
+      "material": "wool",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "t4",
+    "filename": "t4.jpg",
+    "name": "Cotton T-shirt",
+    "normalized_attributes": {
+      "garment_type": "top",
+      "specific_type": "tshirt",
+      "color": "white",
+      "season": "summer",
+      "formality": "casual",
+      "occasion": "travel",
+      "style": "casual",
+      "material": "cotton",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "t5",
+    "filename": "t5.jpg",
+    "name": "Summer shirt",
+    "normalized_attributes": {
+      "garment_type": "top",
+      "specific_type": "shirt",
+      "color": "white",
+      "season": "summer",
+      "formality": "formal",
+      "occasion": "party",
+      "style": "chic",
+      "material": "linen",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "t6",
+    "filename": "t6.jpg",
+    "name": "Training T-shirt",
+    "normalized_attributes": {
+      "garment_type": "top",
+      "specific_type": "tshirt",
+      "color": "gray",
+      "season": "summer",
+      "formality": "sport",
+      "occasion": "sport",
+      "style": "sport",
+      "material": "polyester",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "b1",
+    "filename": "b1.jpg",
+    "name": "Beige chinos",
+    "normalized_attributes": {
+      "garment_type": "bottom",
+      "specific_type": "chinos",
+      "color": "beige",
+      "season": "spring",
+      "formality": "business_casual",
+      "occasion": "work",
+      "style": "classic",
+      "material": "cotton",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "b2",
+    "filename": "b2.jpg",
+    "name": "Straight jeans",
+    "normalized_attributes": {
+      "garment_type": "bottom",
+      "specific_type": "jeans",
+      "color": "navy_blue",
+      "season": "spring",
+      "formality": "casual",
+      "occasion": "travel",
+      "style": "casual",
+      "material": "denim",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "b3",
+    "filename": "b3.jpg",
+    "name": "Winter trousers",
+    "normalized_attributes": {
+      "garment_type": "bottom",
+      "specific_type": "trousers",
+      "color": "black",
+      "season": "winter",
+      "formality": "formal",
+      "occasion": "work",
+      "style": "classic",
+      "material": "wool",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "b4",
+    "filename": "b4.jpg",
+    "name": "Summer shorts",
+    "normalized_attributes": {
+      "garment_type": "bottom",
+      "specific_type": "shorts",
+      "color": "beige",
+      "season": "summer",
+      "formality": "casual",
+      "occasion": "travel",
+      "style": "casual",
+      "material": "linen",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "b5",
+    "filename": "b5.jpg",
+    "name": "Training leggings",
+    "normalized_attributes": {
+      "garment_type": "bottom",
+      "specific_type": "leggings",
+      "color": "black",
+      "season": "summer",
+      "formality": "sport",
+      "occasion": "sport",
+      "style": "sport",
+      "material": "polyester",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "b6",
+    "filename": "b6.jpg",
+    "name": "Evening trousers",
+    "normalized_attributes": {
+      "garment_type": "bottom",
+      "specific_type": "trousers",
+      "color": "black",
+      "season": "summer",
+      "formality": "formal",
+      "occasion": "party",
+      "style": "chic",
+      "material": "linen",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "s1",
+    "filename": "s1.jpg",
+    "name": "Leather loafers",
+    "normalized_attributes": {
+      "garment_type": "shoes",
+      "specific_type": "loafers",
+      "color": "brown",
+      "season": "spring",
+      "formality": "formal",
+      "occasion": "work",
+      "style": "classic",
+      "material": "leather",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "s2",
+    "filename": "s2.jpg",
+    "name": "Everyday sneakers",
+    "normalized_attributes": {
+      "garment_type": "shoes",
+      "specific_type": "sneakers",
+      "color": "white",
+      "season": "spring",
+      "formality": "casual",
+      "occasion": "travel",
+      "style": "casual",
+      "material": "cotton",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "s3",
+    "filename": "s3.jpg",
+    "name": "Winter boots",
+    "normalized_attributes": {
+      "garment_type": "shoes",
+      "specific_type": "boots",
+      "color": "brown",
+      "season": "winter",
+      "formality": "casual",
+      "occasion": "travel",
+      "style": "casual",
+      "material": "leather",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "s4",
+    "filename": "s4.jpg",
+    "name": "Summer sandals",
+    "normalized_attributes": {
+      "garment_type": "shoes",
+      "specific_type": "sandals",
+      "color": "beige",
+      "season": "summer",
+      "formality": "casual",
+      "occasion": "travel",
+      "style": "casual",
+      "material": "leather",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "s5",
+    "filename": "s5.jpg",
+    "name": "Running sneakers",
+    "normalized_attributes": {
+      "garment_type": "shoes",
+      "specific_type": "sneakers",
+      "color": "gray",
+      "season": "summer",
+      "formality": "sport",
+      "occasion": "sport",
+      "style": "sport",
+      "material": "polyester",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "o1",
+    "filename": "o1.jpg",
+    "name": "Puffer jacket",
+    "normalized_attributes": {
+      "garment_type": "outerwear",
+      "specific_type": "puffer jacket",
+      "color": "military_green",
+      "season": "winter",
+      "formality": "casual",
+      "occasion": "travel",
+      "style": "casual",
+      "material": "polyester",
+      "pattern": "solid"
+    }
+  },
+  {
+    "_id": "o2",
+    "filename": "o2.jpg",
+    "name": "Navy blazer",
+    "normalized_attributes": {
+      "garment_type": "outerwear",
+      "specific_type": "blazer",
+      "color": "navy_blue",
+      "season": "spring",
+      "formality": "formal",
+      "occasion": "work",
+      "style": "classic",
+      "material": "wool",
+      "pattern": "solid"
+    }
+  }
+]

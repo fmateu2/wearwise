@@ -1,0 +1,505 @@
+{
+  "normalization": {
+    "colors": {
+      "black": "black",
+      "jet black": "black",
+      "ebony": "black",
+      "onyx": "black",
+      "graphite black": "black",
+
+      "white": "white",
+      "snow": "white",
+      "ghost white": "white",
+      "pearl": "white",
+
+      "gray": "gray",
+      "slate": "gray",
+      "steel": "gray",
+      "smoke": "gray",
+
+      "light gray": "light_gray",
+      "silver gray": "light_gray",
+      "ash": "light_gray",
+      "dove gray": "light_gray",
+
+      "dark gray": "dark_gray",
+      "charcoal": "dark_gray",
+      "graphite": "dark_gray",
+      "gunmetal": "dark_gray",
+
+      "navy": "navy_blue",
+      "navy blue": "navy_blue",
+      "midnight blue": "navy_blue",
+      "deep blue": "navy_blue",
+      "marine blue": "navy_blue",
+      "denim blue": "navy_blue",
+      "jean blue": "navy_blue",
+
+      "blue": "navy_blue",
+      "royal blue": "royal_blue",
+      "electric blue": "royal_blue",
+      "cobalt": "royal_blue",
+
+      "light blue": "light_blue",
+      "sky blue": "light_blue",
+      "baby blue": "light_blue",
+      "ice blue": "light_blue",
+      "powder blue": "light_blue",
+      "azure": "light_blue",
+
+      "red": "red",
+      "blood red": "red",
+      "scarlet": "red",
+      "ruby": "red",
+      "brick red": "red",
+
+      "burgundy": "burgundy",
+      "wine": "burgundy",
+      "maroon": "burgundy",
+      "oxblood": "burgundy",
+
+      "pink": "pink",
+      "rose": "pink",
+      "hot pink": "pink",
+      "dusty pink": "pink",
+      "magenta": "pink",
+
+      "light pink": "baby_pink",
+      "pale pink": "baby_pink",
+      "blush": "baby_pink",
+      "pastel pink": "baby_pink",
+
+      "lilac": "lilac",
+      "lavender": "lilac",
+      "violet": "lilac",
+      "orchid": "lilac",
+      "periwinkle": "lilac",
+
+      "green": "dark_green",
+      "forest green": "dark_green",
+      "pine": "dark_green",
+      "hunter green": "dark_green",
+
+      "light green": "light_green",
+      "mint green": "light_green",
+      "sage": "light_green",
+      "spring green": "light_green",
+
+      "olive": "military_green",
+      "army green": "military_green",
+      "khaki green": "military_green",
+
+      "yellow": "yellow",
+      "lemon": "yellow",
+      "sunny yellow": "yellow",
+
+      "mustard": "mustard",
+      "mustard yellow": "mustard",
+
+      "orange": "orange",
+      "coral": "orange",
+      "tangerine": "orange",
+      "peach": "pastel",
+
+      "beige": "beige",
+      "cream": "beige",
+      "ivory": "beige",
+      "eggshell": "beige",
+
+      "camel": "camel",
+      "tan": "camel",
+      "sand": "camel",
+      "wheat": "camel",
+
+      "brown": "brown",
+      "chocolate": "brown",
+      "espresso": "brown",
+      "coffee": "brown",
+      "umber": "brown",
+
+      "light brown": "light_brown",
+      "hazelnut": "light_brown",
+      "oak": "light_brown",
+
+      "gold": "gold",
+      "metallic gold": "gold",
+
+      "silver": "silver",
+      "chrome": "silver",
+      "metallic silver": "silver"
+    },
+
+    "materials": {
+      "cotton": "cotton",
+      "organic cotton": "cotton",
+      "heavy cotton": "cotton",
+      "light cotton": "cotton",
+
+      "denim": "denim",
+      "jean fabric": "denim",
+
+      "wool": "wool",
+      "merino wool": "wool",
+      "cashmere": "wool",
+
+      "polyester": "polyester",
+      "nylon": "polyester",
+      "synthetic": "polyester",
+
+      "linen": "linen",
+      "light linen": "linen",
+
+      "silk": "silk",
+      "satin": "silk",
+
+      "leather": "leather",
+      "vegan leather": "leather",
+
+      "fleece": "fleece",
+      "knit": "knit",
+      "suede": "suede"
+    },
+
+    "patterns": {
+      "solid": "solid",
+      "plain": "solid",
+
+      "stripes": "stripes",
+      "striped": "stripes",
+
+      "plaid": "plaid",
+      "checkered": "plaid",
+      "tartan": "plaid",
+
+      "floral": "floral",
+      "flowers": "floral",
+
+      "polka dots": "polka_dots",
+      "dots": "polka_dots",
+
+      "animal print": "animal_print",
+      "leopard": "animal_print",
+      "tiger": "animal_print",
+      "zebra": "animal_print",
+
+      "graphic": "graphic",
+      "logo print": "graphic",
+      "illustration": "graphic"
+    },
+
+    "categories": {
+      "tshirt": "top",
+      "t-shirt": "top",
+      "tee": "top",
+      "long sleeve tee": "top",
+      "henley": "top",
+      "polo": "top",
+      "shirt": "top",
+      "dress shirt": "top",
+      "oxford shirt": "top",
+      "linen shirt": "top",
+      "blouse": "top",
+      "peplum top": "top",
+      "tank top": "top",
+      "camisole": "top",
+      "cami": "top",
+      "tube top": "top",
+      "halter top": "top",
+      "crop top": "top",
+      "bandeau": "top",
+      "bodysuit": "top",
+      "hoodie": "top",
+      "zip hoodie": "top",
+      "sweatshirt": "top",
+      "crewneck": "top",
+      "pullover": "top",
+      "cardigan": "top",
+      "wrap top": "top",
+      "sweater": "top",
+      "jumper": "top",
+      "turtleneck": "top",
+      "mock neck": "top",
+      "vest": "top",
+      "waistcoat": "top",
+      "knit top": "top",
+      "corset top": "top",
+      "bralette": "top",
+
+      "jeans": "bottom",
+      "denim": "bottom",
+      "skinny jeans": "bottom",
+      "straight jeans": "bottom",
+      "wide leg jeans": "bottom",
+      "flare jeans": "bottom",
+      "bootcut jeans": "bottom",
+      "cargo pants": "bottom",
+      "parachute pants": "bottom",
+      "pants": "bottom",
+      "trousers": "bottom",
+      "chinos": "bottom",
+      "leggings": "bottom",
+      "joggers": "bottom",
+      "sweatpants": "bottom",
+      "track pants": "bottom",
+      "culottes": "bottom",
+      "palazzo pants": "bottom",
+      "shorts": "bottom",
+      "bermuda shorts": "bottom",
+      "denim shorts": "bottom",
+      "biker shorts": "bottom",
+      "skirt": "bottom",
+      "mini skirt": "bottom",
+      "midi skirt": "bottom",
+      "maxi skirt": "bottom",
+      "pencil skirt": "bottom",
+      "pleated skirt": "bottom",
+      "wrap skirt": "bottom",
+      "cargo skirt": "bottom",
+      "skort": "bottom",
+
+      "dress": "one_piece",
+      "mini dress": "one_piece",
+      "midi dress": "one_piece",
+      "maxi dress": "one_piece",
+      "shirt dress": "one_piece",
+      "wrap dress": "one_piece",
+      "slip dress": "one_piece",
+      "bodycon dress": "one_piece",
+      "knit dress": "one_piece",
+      "sweater dress": "one_piece",
+      "t-shirt dress": "one_piece",
+      "halter dress": "one_piece",
+      "strapless dress": "one_piece",
+      "off shoulder dress": "one_piece",
+      "jumpsuit": "one_piece",
+      "boiler suit": "one_piece",
+      "romper": "one_piece",
+      "playsuit": "one_piece",
+      "overall": "one_piece",
+      "dungarees": "one_piece",
+
+      "jacket": "outerwear",
+      "denim jacket": "outerwear",
+      "bomber jacket": "outerwear",
+      "varsity jacket": "outerwear",
+      "puffer jacket": "outerwear",
+      "quilted jacket": "outerwear",
+      "windbreaker": "outerwear",
+      "rain jacket": "outerwear",
+      "leather jacket": "outerwear",
+      "moto jacket": "outerwear",
+      "biker jacket": "outerwear",
+      "trucker jacket": "outerwear",
+      "utility jacket": "outerwear",
+      "field jacket": "outerwear",
+      "coat": "outerwear",
+      "wool coat": "outerwear",
+      "wrap coat": "outerwear",
+      "trench coat": "outerwear",
+      "topcoat": "outerwear",
+      "parka": "outerwear",
+      "anorak": "outerwear",
+      "blazer": "outerwear",
+      "vest outerwear": "outerwear",
+      "gilet": "outerwear",
+      "cape": "outerwear",
+      "poncho": "outerwear",
+
+      "boots": "shoes",
+      "ankle boots": "shoes",
+      "chelsea boots": "shoes",
+      "combat boots": "shoes",
+      "knee boots": "shoes",
+      "over the knee boots": "shoes",
+      "western boots": "shoes",
+      "sneakers": "shoes",
+      "trainers": "shoes",
+      "running shoes": "shoes",
+      "court shoes": "shoes",
+      "shoes": "shoes",
+      "heels": "shoes",
+      "pumps": "shoes",
+      "stilettos": "shoes",
+      "block heels": "shoes",
+      "mules": "shoes",
+      "loafers": "shoes",
+      "brogues": "shoes",
+      "oxfords": "shoes",
+      "derby": "shoes",
+      "ballet flats": "shoes",
+      "mary janes": "shoes",
+      "espadrilles": "shoes",
+      "sandals": "shoes",
+      "slides": "shoes",
+      "flip flops": "shoes",
+      "platform sandals": "shoes",
+      "clogs": "shoes",
+      "wedges": "shoes"
+    },
+
+    "formality": {
+      "formal": "formal",
+      "black tie": "formal",
+      "business formal": "formal",
+
+      "business casual": "business_casual",
+      "smart casual": "business_casual",
+
+      "casual": "casual",
+      "relaxed": "casual",
+      "everyday": "casual",
+
+      "sport": "sport",
+      "activewear": "sport",
+      "gym": "sport"
+    },
+
+    "styles": {
+      "streetwear": "street",
+      "urban": "street",
+      "edgy": "street",
+
+      "chic": "chic",
+      "elegant": "chic",
+      "stylish": "chic",
+
+      "sporty": "sport",
+      "athletic": "sport",
+
+      "casual": "casual",
+      "basic": "casual",
+
+      "vintage": "vintage",
+      "retro": "vintage",
+
+      "minimalist": "minimalist",
+      "classic": "classic"
+    },
+
+    "occasions": {
+      "date": "date",
+      "romantic": "date",
+
+      "work": "work",
+      "office": "work",
+      "meeting": "work",
+
+      "gym": "sport",
+      "workout": "sport",
+
+      "party": "party",
+      "night out": "party",
+      "club": "party",
+
+      "travel": "travel",
+      "airport": "travel"
+    },
+
+    "seasons": {
+      "winter": "winter",
+      "fall": "autumn",
+      "autumn": "autumn",
+      "spring": "spring",
+      "summer": "summer"
+    }
+  },
+
+  "rules": {
+    "color_matching": {
+      "compatible_colors": {
+        "black": ["white", "gray", "red", "navy_blue", "beige", "camel", "gold", "silver", "pink"],
+        "white": ["black", "navy_blue", "beige", "gray", "green", "brown", "camel", "pink"],
+        "gray": ["black", "white", "navy_blue", "yellow", "burgundy", "pink", "green"],
+        "navy_blue": ["white", "gray", "camel", "yellow", "red", "pink"],
+        "red": ["black", "white", "gray", "navy_blue", "camel"],
+
+        "burgundy": ["black", "gray", "white", "beige", "mustard"],
+        "dark_green": ["beige", "white", "brown", "black", "gray"],
+        "light_green": ["white", "beige", "gray", "pastel"],
+        "yellow": ["navy_blue", "gray", "black"],
+        "mustard": ["black", "gray", "burgundy"],
+
+        "beige": ["black", "white", "brown", "navy_blue", "green"],
+        "camel": ["black", "white", "navy_blue", "pink"],
+        "brown": ["beige", "white", "green", "camel"],
+        "pink": ["gray", "white", "black", "beige"],
+        "lilac": ["pastel", "white", "gray"],
+        "orange": ["navy_blue", "black", "white"],
+        "gold": ["black", "white", "burgundy"],
+        "silver": ["black", "white", "gray"]
+      }
+    },
+
+    "temperature_rules": {
+      "rules": [
+        {
+          "name": "very_cold",
+          "min": -50,
+          "max": 5,
+          "required": ["puffer jacket", "sweater", "scarf", "gloves", "boots"],
+          "forbidden": ["shorts", "tank_top", "tshirt"]
+        },
+        {
+          "name": "cold",
+          "min": 6,
+          "max": 12,
+          "required": ["jacket", "light_sweater"],
+          "forbidden": ["shorts", "tank_top", "tshirt"]
+        },
+        { "name": "mild", "min": 13, "max": 18, "required": ["shirt", "thin_sweater"] },
+        {
+          "name": "warm",
+          "min": 19,
+          "max": 26,
+          "required": ["tshirt", "light_pants"],
+          "forbidden": ["puffer jacket", "coat"]
+        },
+        {
+          "name": "hot",
+          "min": 27,
+          "max": 60,
+          "required": ["tank_top", "shorts", "sandals"],
+          "forbidden": ["outerwear"]
+        }
+      ]
+    },
+
+    "pattern_rules": {
+      "solid": ["stripes", "plaid", "floral", "graphic"],
+      "stripes": ["solid", "small_flower"],
+      "plaid": ["solid"],
+      "floral": ["solid"],
+      "animal_print": ["solid"]
+    },
+
+    "formality_rules": {
+      "formal": {
+        "allowed": ["shirt", "blazer", "dress_pants", "formal_shoes"],
+        "forbidden": ["tshirt", "jeans", "sneakers", "shorts", "sandals", "leggings"]
+      },
+      "business_casual": { "allowed": ["shirt", "polo", "chinos", "neutral_sneakers"] },
+      "casual": { "allowed": ["tshirt", "jeans", "sneakers"] }
+    },
+
+    "occasion_rules": {
+      "work": {
+        "forbidden_styles": ["sport"]
+      },
+      "date": {
+        "forbidden_styles": ["sport"]
+      },
+      "sport": {
+        "forbidden_styles": ["formal"],
+        "allowed": ["sport_shirt", "leggings", "sport_shoes"],
+        "forbidden": ["jeans"]
+      }
+    },
+
+    "category_matching": {
+      "basic_outfit": ["top", "bottom", "shoes"],
+      "formal_outfit": ["shirt", "dress_pants", "formal_shoes"],
+      "casual_outfit": ["tshirt", "jeans", "sneakers"],
+      "winter_outfit": ["top", "bottom", "outerwear", "shoes"]
+    }
+  }
+}
